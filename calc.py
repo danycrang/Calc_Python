@@ -11,19 +11,19 @@ def add():
 def subtraction():
     a = float(input("Enter a number:"))
     b = float(input("Enter a second number:"))
-    print(a-b)
+    print("Result is: {}".format(a-b))
 
 
 def multiply():
     a = float(input("Enter a number:"))
     b = float(input("Enter a second number:"))
-    print(a*b)
+    print("Result is {}".format(a*b))
 
 
 def divide():
     a = float(input("Enter a number:"))
     b = float(input("Enter a second number:"))
-    print(a/b)
+    print("Result is {}".format(a/b))
 
 while on:
     print("Calculator:")
