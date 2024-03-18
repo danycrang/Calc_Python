@@ -9,7 +9,7 @@ Simple calculator app made in Python.
 ## Installation
 
 **Prerequisites**
-* List Python version requirement (e.g., "Python 3 or higher")
+* Python 3 or higher
 
 **Instructions**
 1. Clone the repository:
